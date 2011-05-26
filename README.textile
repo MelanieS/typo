@@ -91,4 +91,3 @@ The admin interface for Typo allows you to post articles and change configuratio
 
 Enjoy,
 The Typo team
-
